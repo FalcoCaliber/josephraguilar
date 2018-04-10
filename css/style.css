@@ -9,6 +9,7 @@
 .border {
     border: 2px solid red;
 }
+
 .textcenter {
     text-align: center;
 }
@@ -186,7 +187,7 @@ label[for="toggle"] {
     background-color: #CDCDCD;
     display: inline-block;
     line-height: 50px;
-    
+
 }
 
 .myinfo h3 {
@@ -233,7 +234,7 @@ span {
 }
 
 
-    
+
 
 /*footer section*/
 footer {
@@ -250,7 +251,7 @@ footer a {
     color: #C06014;
 }
 
-.ftile { 
+.ftile {
     margin-left: 24%;
-    
+
 }
